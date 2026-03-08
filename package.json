@@ -1,4 +1,5 @@
 {
+  "homepage": "https://lankalapallijayanth.github.io/portfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -51,6 +52,5 @@
   "devDependencies": {
     "gh-pages": "^6.3.0",
     "pdfjs-dist": "^3.2.146"
-  },
-  "homepage": "https://lankalapallijayanth.github.io/portfolio"
+  }
 }
