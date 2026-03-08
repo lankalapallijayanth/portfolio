@@ -25,7 +25,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
 
 <br />
-Feel free to contribute to this repo.
-
-### Show some ❤️&nbsp; by giving the star :star: to this repository!!
-<h1 align=center> 🧠 Happy Hacking 🧠 </h1>
