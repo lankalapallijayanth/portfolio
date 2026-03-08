@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.4a9fcc4e.css",
+    "main.js": "/portfolio/static/js/main.7b300682.js",
+    "static/media/swe1.png": "/portfolio/static/media/swe1.601141f53bc9f447f586.png",
+    "static/media/jllogo.png": "/portfolio/static/media/jllogo.e868ff23e1f6fb356c61.png",
+    "static/media/swe2.png": "/portfolio/static/media/swe2.fdf438139c0488d2f340.png",
+    "static/media/wplogo.png": "/portfolio/static/media/wplogo.0a217e16f77b68ec9544.png",
+    "static/media/jayanth_lankalapalli_res.pdf": "/portfolio/static/media/jayanth_lankalapalli_res.2fa15f1cedcaa150e09e.pdf",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/resume_realm.png": "/portfolio/static/media/resume_realm.eaa97f0382f68fd08d4b.png",
+    "static/media/halfway.png": "/portfolio/static/media/halfway.6ba017650146b38a73da.png",
+    "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfolio/index.html",
+    "main.4a9fcc4e.css.map": "/portfolio/static/css/main.4a9fcc4e.css.map",
+    "main.7b300682.js.map": "/portfolio/static/js/main.7b300682.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a9fcc4e.css",
+    "static/js/main.7b300682.js"
+  ]
+}
