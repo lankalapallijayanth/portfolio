@@ -4,6 +4,7 @@ import homeLogo from '../assets/swe2.png'
 import Particle from '../components/Particle';
 import About from '../components/Home/About';
 import Type from '../components/Home/Type';
+import Tilt from "react-parallax-tilt";
 
 const Home = () => {
   return (
@@ -31,12 +32,14 @@ const Home = () => {
             </Col>
 
             <Col md={5} style={{ paddingBottom: 20 }}>
+              <Tilt>
               <img
                 src={homeLogo}
                 alt="home pic"
                 className="img-fluid"
                 style={{ maxHeight: "450px" }}
               />
+              </Tilt>
             </Col>
           </Row>
         </Container>
